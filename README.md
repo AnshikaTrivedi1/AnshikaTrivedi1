@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm Anshika Trivedi from Mandsaur, Madhya Pradesh.<br><br>- 🔭 I’m  a MCA student from VIT Bhopal.<br>- 📚 I'm currently learning Full Stack Web Development.<br>- ⚡ In my free time I try to explore tech innovations.</p>
+<p align="left">I'm Anshika Trivedi from Mandsaur, Madhya Pradesh.<br><br>- 🔭 I’m  a MCA student from VIT Bhopal.<br>- 📚 I'm currently learning Full Stack Web Development.
+<br>- ☁ Learning DevOps and AWS <br>-  ⚡ In my free time I try to explore tech innovations.</p>
 
 ###
 
